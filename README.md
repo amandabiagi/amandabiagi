@@ -5,7 +5,7 @@
 - 📫 Contato amanda.biagi@outlook.com
 
 <div align="center">
-  <a href="https://github.com/DanielPin">
+  <a href="https://github.com/amandabiagi">
   <img height="180em" src="https://github-readme-stats-lime-two.vercel.app/api?username=amandabiagi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-lime-two.vercel.app/api/top-langs/?username=amandabiagi&layout=compact&langs_count=7&theme=dracula"/>
 </div>
