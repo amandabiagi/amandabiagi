@@ -1,6 +1,6 @@
 ### Olá meu nome é  Amanda Rocha de Biagi,  👋
 
-- 🔭 Forma em Análise e Desenvolvimento de Sistemas na BandTec
+- 🔭 Formada em Análise e Desenvolvimento de Sistemas na BandTec
 - 🌱 Estudando atualmente Java, GCP, AWS, Spring
 - 📫 Contato amanda.biagi@outlook.com
 
